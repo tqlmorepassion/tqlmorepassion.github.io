@@ -4,19 +4,19 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://tqlmorepassion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tqlmorepassion.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: tqlmorepassion # 名字
-author-img: favicon.ico # 照片
-about-author: 安卓开发者 # add description
+author: 夏雨荷她男人 # 名字
+author-img: head.png # 照片
+about-author: Android Developer # add description
 github: tqlmorepassion # add your Github handle
-email: # tqlmorepassion@foxmail.com
-#twitter: # add your Twitter handle
-#facebook: # add your Facebook handle
-#linkedin: # add your Linkedin handle
-#site-twitter: #if your site has a twitter account, enter it here
+email: tqlmorepassion@foxmail.com
+zhihu: tqlmorepassion
+weibo: tqlmorepassion
+jianshu: u/de6d5d54c98d
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
