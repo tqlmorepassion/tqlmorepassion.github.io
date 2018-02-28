@@ -1,10 +1,10 @@
 ---
 layout: post
-title: regain confidence
+title: Regain Confidence
 date: 2018-02-28 21:30
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: workflow.jpg # Add image post (optional)
-tags: [persion] # add tag
+description:regain confidence
+img: <!---->
+tags: [persion]
 ---
 #重拾自信、挑战自己
 
